@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { map, property, uniq, filter } from 'lodash';
 import { Fab, Button } from '@mui/material';
 import { DataGrid } from '@mui/x-data-grid';
-import {Line} from 'react-chartjs-2';
+import { Line } from 'react-chartjs-2';
 import 'chart.js/auto';
 
 
