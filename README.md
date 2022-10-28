@@ -1,4 +1,4 @@
-# Deriv Assignment
+# Frontend Assignment
 
 Following features are implemented
 
