@@ -14,3 +14,10 @@ P.S: Currently the charts data is hardcoded. I ran out of time to implment it.
 
 
 ![product](https://user-images.githubusercontent.com/11629780/198569598-5d7f12f7-955f-45b3-b313-2c875d9d6af4.gif)
+
+
+
+# Commands To run the project
+
+1. npm install
+2. npm start
